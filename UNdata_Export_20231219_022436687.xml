@@ -1,0 +1,238 @@
+<ROOT>
+    <data>
+        <record>
+            <field name="Country or Area">Comoros</field>
+            <field name="Year(s)">2023</field>
+            <field name="Variant">Medium</field>
+            <field name="Value">852.075</field>
+        </record>
+        <record>
+            <field name="Country or Area">Comoros</field>
+            <field name="Year(s)">2023</field>
+            <field name="Variant">High</field>
+            <field name="Value">854.317</field>
+        </record>
+        <record>
+            <field name="Country or Area">Comoros</field>
+            <field name="Year(s)">2023</field>
+            <field name="Variant">Low</field>
+            <field name="Value">849.835</field>
+        </record>
+        <record>
+            <field name="Country or Area">Comoros</field>
+            <field name="Year(s)">2023</field>
+            <field name="Variant">Constant fertility</field>
+            <field name="Value">852.28</field>
+        </record>
+        <record>
+            <field name="Country or Area">Comoros</field>
+            <field name="Year(s)">2023</field>
+            <field name="Variant">Instant replacement</field>
+            <field name="Value">837.197</field>
+        </record>
+        <record>
+            <field name="Country or Area">Comoros</field>
+            <field name="Year(s)">2023</field>
+            <field name="Variant">Zero migration</field>
+            <field name="Value">855.149</field>
+        </record>
+        <record>
+            <field name="Country or Area">Comoros</field>
+            <field name="Year(s)">2023</field>
+            <field name="Variant">Constant mortality</field>
+            <field name="Value">851.758</field>
+        </record>
+        <record>
+            <field name="Country or Area">Comoros</field>
+            <field name="Year(s)">2023</field>
+            <field name="Variant">No change</field>
+            <field name="Value">851.963</field>
+        </record>
+        <record>
+            <field name="Country or Area">Comoros</field>
+            <field name="Year(s)">2023</field>
+            <field name="Variant">Momentum</field>
+            <field name="Value">839.946</field>
+        </record>
+        <record>
+            <field name="Country or Area">Comoros</field>
+            <field name="Year(s)">2023</field>
+            <field name="Variant">Instant replacement zero migration</field>
+            <field name="Value">840.245</field>
+        </record>
+        <record>
+            <field name="Country or Area">Comoros</field>
+            <field name="Year(s)">2023</field>
+            <field name="Variant">Median PI</field>
+            <field name="Value">852.075</field>
+        </record>
+        <record>
+            <field name="Country or Area">Comoros</field>
+            <field name="Year(s)">2023</field>
+            <field name="Variant">Upper 80 PI</field>
+            <field name="Value">855.729</field>
+        </record>
+        <record>
+            <field name="Country or Area">Comoros</field>
+            <field name="Year(s)">2023</field>
+            <field name="Variant">Lower 80 PI</field>
+            <field name="Value">848.596</field>
+        </record>
+        <record>
+            <field name="Country or Area">Comoros</field>
+            <field name="Year(s)">2023</field>
+            <field name="Variant">Upper 95 PI</field>
+            <field name="Value">857.858</field>
+        </record>
+        <record>
+            <field name="Country or Area">Comoros</field>
+            <field name="Year(s)">2023</field>
+            <field name="Variant">Lower 95 PI</field>
+            <field name="Value">846.633</field>
+        </record>
+        <record>
+            <field name="Country or Area">Comoros</field>
+            <field name="Year(s)">2022</field>
+            <field name="Variant">Medium</field>
+            <field name="Value">836.774</field>
+        </record>
+        <record>
+            <field name="Country or Area">Comoros</field>
+            <field name="Year(s)">2022</field>
+            <field name="Variant">High</field>
+            <field name="Value">837.519</field>
+        </record>
+        <record>
+            <field name="Country or Area">Comoros</field>
+            <field name="Year(s)">2022</field>
+            <field name="Variant">Low</field>
+            <field name="Value">836.029</field>
+        </record>
+        <record>
+            <field name="Country or Area">Comoros</field>
+            <field name="Year(s)">2022</field>
+            <field name="Variant">Constant fertility</field>
+            <field name="Value">836.774</field>
+        </record>
+        <record>
+            <field name="Country or Area">Comoros</field>
+            <field name="Year(s)">2022</field>
+            <field name="Variant">Instant replacement</field>
+            <field name="Value">831.769</field>
+        </record>
+        <record>
+            <field name="Country or Area">Comoros</field>
+            <field name="Year(s)">2022</field>
+            <field name="Variant">Zero migration</field>
+            <field name="Value">837.771</field>
+        </record>
+        <record>
+            <field name="Country or Area">Comoros</field>
+            <field name="Year(s)">2022</field>
+            <field name="Variant">Constant mortality</field>
+            <field name="Value">836.774</field>
+        </record>
+        <record>
+            <field name="Country or Area">Comoros</field>
+            <field name="Year(s)">2022</field>
+            <field name="Variant">No change</field>
+            <field name="Value">836.774</field>
+        </record>
+        <record>
+            <field name="Country or Area">Comoros</field>
+            <field name="Year(s)">2022</field>
+            <field name="Variant">Momentum</field>
+            <field name="Value">832.768</field>
+        </record>
+        <record>
+            <field name="Country or Area">Comoros</field>
+            <field name="Year(s)">2022</field>
+            <field name="Variant">Instant replacement zero migration</field>
+            <field name="Value">832.768</field>
+        </record>
+        <record>
+            <field name="Country or Area">Comoros</field>
+            <field name="Year(s)">2022</field>
+            <field name="Variant">Median PI</field>
+            <field name="Value">836.774</field>
+        </record>
+        <record>
+            <field name="Country or Area">Comoros</field>
+            <field name="Year(s)">2022</field>
+            <field name="Variant">Upper 80 PI</field>
+            <field name="Value">837.989</field>
+        </record>
+        <record>
+            <field name="Country or Area">Comoros</field>
+            <field name="Year(s)">2022</field>
+            <field name="Variant">Lower 80 PI</field>
+            <field name="Value">835.623</field>
+        </record>
+        <record>
+            <field name="Country or Area">Comoros</field>
+            <field name="Year(s)">2022</field>
+            <field name="Variant">Upper 95 PI</field>
+            <field name="Value">838.676</field>
+        </record>
+        <record>
+            <field name="Country or Area">Comoros</field>
+            <field name="Year(s)">2022</field>
+            <field name="Variant">Lower 95 PI</field>
+            <field name="Value">834.971</field>
+        </record>
+        <record>
+            <field name="Country or Area">Comoros</field>
+            <field name="Year(s)">2021</field>
+            <field name="Variant">Medium</field>
+            <field name="Value">821.625</field>
+        </record>
+        <record>
+            <field name="Country or Area">Comoros</field>
+            <field name="Year(s)">2020</field>
+            <field name="Variant">Medium</field>
+            <field name="Value">806.166</field>
+        </record>
+        <record>
+            <field name="Country or Area">Comoros</field>
+            <field name="Year(s)">2019</field>
+            <field name="Variant">Medium</field>
+            <field name="Value">790.986</field>
+        </record>
+        <record>
+            <field name="Country or Area">Comoros</field>
+            <field name="Year(s)">2018</field>
+            <field name="Variant">Medium</field>
+            <field name="Value">776.313</field>
+        </record>
+        <record>
+            <field name="Country or Area">Comoros</field>
+            <field name="Year(s)">2017</field>
+            <field name="Variant">Medium</field>
+            <field name="Value">761.664</field>
+        </record>
+        <record>
+            <field name="Country or Area">Comoros</field>
+            <field name="Year(s)">2016</field>
+            <field name="Variant">Medium</field>
+            <field name="Value">746.232</field>
+        </record>
+        <record>
+            <field name="Country or Area">Comoros</field>
+            <field name="Year(s)">2015</field>
+            <field name="Variant">Medium</field>
+            <field name="Value">730.216</field>
+        </record>
+        <record>
+            <field name="Country or Area">Comoros</field>
+            <field name="Year(s)">2014</field>
+            <field name="Variant">Medium</field>
+            <field name="Value">714.612</field>
+        </record>
+        <record>
+            <field name="Country or Area">Comoros</field>
+            <field name="Year(s)">2013</field>
+            <field name="Variant">Medium</field>
+            <field name="Value">699.393</field>
+        </record>
+    </data>
+</ROOT>
