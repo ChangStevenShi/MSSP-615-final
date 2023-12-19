@@ -12,7 +12,7 @@ library(rnaturalearth)
 library(sf)
 library(leaflet)
 library(DT)
-
+library(rsconnect)
 
 
 ##############################################################################
